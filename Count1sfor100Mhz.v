@@ -16,7 +16,7 @@
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-// 
+// start上升一个周期即可
 // counter_1s_100M uut3(
 //     .clk(clk),
 //     .rst_n(rst_n),
